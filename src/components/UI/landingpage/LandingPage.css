@@ -1,0 +1,13 @@
+#hero {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#hero .container {
+  height: 90vh;
+}
+
+#features .material-icons {
+  font-size: 50px;
+}
